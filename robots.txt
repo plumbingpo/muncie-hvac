@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://munciehvacco.com/sitemap.xml
